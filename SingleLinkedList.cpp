@@ -153,7 +153,7 @@ class List{
             delete temp;
             temp=nullptr;
         }
-        List::listSize=0;
+        listSize=0;
     }
 
     /**
